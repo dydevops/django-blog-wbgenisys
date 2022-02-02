@@ -1,5 +1,5 @@
 # Django Blog Webgenisys
-#Full Fe ed Blogging Web App Visit our website https://www.mywebcode.com/
+# Full Featured Blogging Web App Visit our website https://www.mywebcode.com/
 
 <p align="left">
     <a href="https://github.com/dkyadavweb/django-blog-wbgenisys/issues" alt="Issues">
