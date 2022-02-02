@@ -1,5 +1,5 @@
 # Django Blog Webgenisys
-# Full Featured Blogging Web App 
+# This is a full-featured Blog application made completely with Python Django, GraphQL and Bootstrap
 # Visit Our Blog https://www.mywebcode.com/
 
 <p align="left">
