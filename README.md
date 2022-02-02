@@ -1,2 +1,2 @@
-# django-blog-wbgenisys
-#Full Featured Blogging Web App Visit our website https://www.mywebcode.com/
+# Django Blog Webgenisys
+#Full Fe ed Blogging Web App Visit our website https://www.mywebcode.com/
