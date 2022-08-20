@@ -27,7 +27,7 @@ If you want to work with this project or create a version of it make sure to fol
     ```
 2. Create a python 3 virtualenv, and activate the environment to install requirements.
     ```bash
-        $ python3 -m venv env
+        $ python -m venv env
         $ source env/bin/activate
     ``` 
 3. Install the project dependencies from `requirements.txt`
